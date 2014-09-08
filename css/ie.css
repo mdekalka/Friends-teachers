@@ -1,0 +1,21 @@
+
+/* info-page */
+.wrap 											{position:relative;}
+	.info-page 									{ float:left; width:486px;border:1px solid #e6e6e6; overflow:hidden; background:#f7f7f7; position:relative;  margin-bottom:20px;   }
+
+	
+/* movie page	 */
+	.movie-table 								{display:block; width:641px; padding:0 12px; background:#f3f3f3; border-spacing:0 14px;   overflow:hidden;}	
+		.movie-table span 						{line-height:34px;  }
+		.movie-tr 								{display:block;  margin-top:15px; overflow:hidden;}
+		.movie-tr 								{display:block;  margin-top:15px; overflow:hidden;}
+		.movie-td 								{float:left; width:150px;  }
+		.movie-table .movie-td a 					{}
+		
+		.books-menu ul li a 	 					{display:inline-block;}
+	/* forum pages */	
+	.forum-page-back span 						{float:left;}
+	
+	/* .methodic-page */
+	.text-level 						{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+	.text-level.visible 			{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100);}
